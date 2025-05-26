@@ -1,0 +1,9 @@
+../Core/Src/main.c:65:6:swap_int	1
+../Core/Src/main.c:71:6:ILI9341_DrawFilledTriangle	12
+../Core/Src/main.c:101:6:drawStar	4
+../Core/Src/main.c:133:5:main	1
+../Core/Src/main.c:192:6:SystemClock_Config	4
+../Core/Src/main.c:245:13:MX_SPI5_Init	2
+../Core/Src/main.c:281:13:MX_DMA_Init	1
+../Core/Src/main.c:299:13:MX_GPIO_Init	1
+../Core/Src/main.c:354:6:Error_Handler	1
