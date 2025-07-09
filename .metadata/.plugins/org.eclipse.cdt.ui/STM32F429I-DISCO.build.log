@@ -1,0 +1,10 @@
+19:25:17 **** Build of configuration Debug for project STM32F429I-DISCO ****
+make -j4 all 
+arm-none-eabi-size  STM32F429I-DISCO.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 946710	    268	 541888	1488866	 16b7e2	STM32F429I-DISCO.elf
+Finished building: default.size.stdout
+ 
+
+19:25:18 Build Finished. 0 errors, 0 warnings. (took 1s.898ms)
+

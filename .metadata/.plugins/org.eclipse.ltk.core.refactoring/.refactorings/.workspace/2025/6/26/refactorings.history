@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;MyApplication_2&apos;" deleteContents="false" description="Delete resource &apos;MyApplication_2&apos;" element1="/MyApplication_2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1751108884381"/>&#x0A;<refactoring comment="Delete resource &apos;STM32F429I_DISCO_REV_D01&apos;" deleteContents="false" description="Delete resource &apos;STM32F429I_DISCO_REV_D01&apos;" element1="/STM32F429I_DISCO_REV_D01" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1751108896268"/>
+</session>
